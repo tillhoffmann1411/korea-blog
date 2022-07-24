@@ -1,0 +1,9 @@
+#Please use the main menu items under the "text"
+
+- text: Home
+  url: /
+- text: Kategorien
+  url: /category/design
+- text: Über mich
+  url: /about.html
+
