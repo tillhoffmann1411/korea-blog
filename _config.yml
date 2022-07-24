@@ -3,7 +3,7 @@ email: "tillhoffmann1411@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Dies ist ein Blog über Tills Semester in Korea. Hier teile ich Bilder und Eindrücke aus Korea.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://korea-blog.github.io"
+url: "https://tillhoffmann1411.github.io/korea-blog/"
 permalink: "/:title"
 site_logo: "/assets/images/logo.png"
 white_logo: "/assets/images/logo-w.png"
