@@ -1118,6 +1118,10 @@ overlay search
   font-size: 20px;
 }
 
+.post-thumb.d-block {
+  text-align: center;
+}
+
 .play-btn {
   line-height: 45px;
   position: absolute;
