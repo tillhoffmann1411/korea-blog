@@ -18,5 +18,6 @@ This is a blog for my semester abroad in south korea.
   > Configuration file: /Users/octocat/my-site/_config.yml
   >    Server address: http://127.0.0.1:4000/
   >  Server running... press ctrl-c to stop.
+5. For production build use `JEKYLL_ENV=production bundle exec jekyll build`
 ```
 To preview your site, in your web browser, navigate to `http://localhost:4000`.
