@@ -2,7 +2,7 @@ title: "Tills Semester in Korea"
 email: "tillhoffmann1411@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Dies ist ein Blog über Tills Semester in Korea. Hier teile ich Bilder und Eindrücke aus Korea.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://till-in-korea.de"
 domain: "till-in-korea.de"
 permalink: "/:title"
@@ -80,7 +80,7 @@ pagination:
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: "index-2"
+  indexpage: "index"
 
 tag_page_layout: tag_page
 tag_page_dir: tag
@@ -95,4 +95,4 @@ jekyll-archives:
 feed:
   collections:
     posts:
-      path: "/index.xml"
+      path: "/index.html"
