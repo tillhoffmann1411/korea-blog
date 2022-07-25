@@ -2,8 +2,8 @@
 
 - text: Home
   url: /
-- text: Kategorien
-  url: /category.html
+# - text: Kategorien
+#   url: /category.html
 - text: Über mich
   url: /about.html
 
