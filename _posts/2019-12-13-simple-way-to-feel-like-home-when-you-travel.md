@@ -4,7 +4,7 @@ title: "A Simple Way to Feel Like Home When You Travel"
 date: 2019-12-13 20:37:13 +0600
 tags: design
 categories: [design]
-post_image: "/assets/images/news/f4.jpg"
+post_image: "/assets/images/news/f1.jpg"
 author: "Themefisher"
 
 ---
