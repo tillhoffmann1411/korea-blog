@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die ersten Tage in Seoul"
-date: 2022-08-28 00:00:00
+date: 2022-08-28 00:00:00 +0900
 tags: Seoul
 categories: [seoul]
 post_image: "/assets/images/seoul_1/DSC01800-edited.webp"
