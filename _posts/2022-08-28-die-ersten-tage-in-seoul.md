@@ -9,6 +9,8 @@ author: "Till Hoffmann"
 featured: true
 ---
 
+Unser Plan war es, für die ersten drei Nächte in Seoul zu bleiben, um einen ersten Eindruck zu bekommen und an dem Freitag Richtung Ulsan zu unserer Universität zu fahren.
+
 # Der Flug nach Südkorea
 
 Nach Südkorea fliegt man ungefähr 12 Stunden. Dabei sind wir (Henrik und ich) von Amsterdam aus geflogen, da von hier die Flüge günstiger waren, als von Frankfurt aus. Das Einchecken und die unzähligen Passport Kontrollen verliefen problemlos. Nachdem ich meinen Fensterplatz eingenommen hatte, begann dann auch schon schnell die Sicherheitseinweisung, die vermutlich jeder kennt. Diese jedoch war etwas anders. Die Sicherheitseinweisung wurde per Video vermittelt, welches im Still eines K-Pop Liedes verpackt wurde (K-Pop heißt Korean Pop und beschreibt die koreanische Popmusik – <a href="https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS" target="_blank">Beispiel</a>). Für mich war das die erste unerwartete Überraschung.
@@ -20,8 +22,6 @@ Nach Südkorea fliegt man ungefähr 12 Stunden. Dabei sind wir (Henrik und ich) 
 Nach dem Start um ca. 21:45 Uhr gabs dann auch schnell das erste Essen, man hatte hier die Wahl zwischen drei verschiedenen Gerichten. Ich entschied mich hier für 비빔밥 (Bibimbap), was im Prinzip Reis getopt mit verschiedenen Zutaten ist. Dies schmeckte auch ganz gut für Flugzeug essen. Danach schlief ich dann halbwegs gut bis morgens 6 Uhr, wo es dann auch schon Frühstück gab. Da ich zu Hause viel Porridge morgens esse, entschied ich mich hier für Reisporridge. Dieser ist jedoch ganz anders als der mir bekannte Haferporridge. Serviert wurde dieser mit eingelegten Zwiebeln und einem Tütchen, indem sowas war, was wie Gemüsebrühe geschmeckt hat. Es war also ein recht würziges Porridge, welches meiner Sitznachbarin anscheinend nicht so geschmeckt hat, da sie nach einem Löffel den Rest zurückgegeben hat.
 
 <img alt="Porridge" src="assets/images/seoul_1/PXL_20220823_050419652.webp" class="img-fluid w-100"/>
-
-Unser Plan war es, für die ersten drei Nächte in Seoul zu bleiben, um einen ersten Eindruck zu bekommen und dann an dem Freitag Richtung Ulsan zu unserer Universität zu fahren.
 
 # Der erste Abend in Seoul
 
