@@ -30,13 +30,13 @@ Das ist einer der Mensen, in denen man sich immer so viel Reis und Kimchi nehmen
 <img alt="Campus" src="assets/images/campus/unist-student.webp" class="img-fluid w-100"/>
 
 
-# Doppelzimmer
+# Das erste Zimmer
 Zu Beginn wohnte ich mit Henrik (ebenfalls von der Uni aus Münster) in einem Doppelzimmer, mit eigenem Bad. Das war für uns zunächst ungewohnt, da wir beide es nicht kannten, mit einer so gut wie fremden Person auf ca. 14qm zu leben. Recht schnell hatten wir uns jedoch damit arrangiert. Zumindest bis zu dem Zeitpunkt, als uns ein anderer Austauschstudent darauf aufmerksam gemacht hat, dass es noch "Singlerooms" gibt. So gingen wir am nächsten Morgen zum Wohnheimbüro und fragten nach, ob solche Zimmer noch verfügbar sind. Glücklicherweise haben Henrik und ich die letzten zwei bekommen. Nachdem alle Formalitäten erledigt waren, ging ich zu meinem neuen Zimmer. Als ich die Wohnung betrat, merkte ich jedoch, dass ich zwar ein eigenes Zimmer hatte, allerdings in einer WG mit zwei Mitbewohnern.
 
 <img alt="Doppelzimmer" src="assets/images/campus/doubleroom.webp" class="img-fluid w-100"/>
 
 
-# WG Zimmer
+# Mein WG Zimmer
 Dass ich nun in einer WG wohne, ist für mich kein Problem, das kenne ich ja schon aus Münster. Das WG leben in meiner neuen WG ist jedoch komplett anders. Bei uns würde man sagen, das WG-Leben ist sehr funktional, also man hat eigentlich nicht viel mit seinen Mitbewohnern zu tun. Das hat sich direkt schon gezeigt, als ich einen meiner Mitbewohner das erste Mal gesehen habe und dieser mich weder gegrüßt noch angeschaut hat. Aber gut, damit komme ich recht gut zurecht, auch wenn ich bis heute meinen anderen Mitbewohner noch nicht einmal gesehen habe. Was mich persönlich leider etwas stört ist, dass meine zwei Mitbewohner scheinbar ein anderes Sauberkeitsempfinden haben als ich. So werde ich jetzt die Tage unsere Toilette und Dusche mal ordentlich saubermachen müssen 😅 Trotzdem bin ich jetzt sehr zufrieden mit meinem neuen Zimmer, da dies recht groß ist und da die Wohnung im 18. Stock ist, habe ich auch einen sehr schönen Ausblick über den Campus.
 
 <img alt="WG Zimmer" src="assets/images/campus/singleroom.webp" class="img-fluid w-100"/>
