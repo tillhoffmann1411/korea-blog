@@ -24,6 +24,10 @@ Der Campus ist im Prinzip aufgeteilt in Vorgesangsgebäude, die direkt an dem kl
 Das ist einer der Mensen, in denen man sich immer so viel Reis und Kimchi nehmen kann, wie man möchte 😋
 
 <img alt="Campus Eingang" src="assets/images/campus/unist-entrance.webp" class="img-fluid w-100"/>
+<img alt="Campus See" src="assets/images/campus/unist-lake.webp" class="img-fluid w-100"/>
+<img alt="Campus Logo" src="assets/images/campus/unist-logo.webp" class="img-fluid w-100"/>
+<img alt="Campus" src="assets/images/campus/unist-place.webp" class="img-fluid w-100"/>
+<img alt="Campus" src="assets/images/campus/unist-student.webp" class="img-fluid w-100"/>
 
 
 # Doppelzimmer
@@ -38,3 +42,7 @@ Dass ich nun in einer WG wohne, ist für mich kein Problem, das kenne ich ja sch
 <img alt="WG Zimmer" src="assets/images/campus/singleroom.webp" class="img-fluid w-100"/>
 <img alt="Aussicht am Tag" src="assets/images/campus/window-view.webp" class="img-fluid w-100"/>
 <img alt="Aussicht in der Nacht" src="assets/images/campus/window-view-night.webp" class="img-fluid w-100"/>
+
+Daneben sind die Wohnheime nach Geschlecht getrennt, es gibt also Männer und Frauen Wohnheime. Hinzu kommt die Regel, dass wenn eine Person des anderen Geschlechts das eigene Zimmer betritt, man aus dem Wohnheim fliegt. Diese Regel klang für uns Europäer zunächst recht strikt, ist aber in Südkorea recht normal für Studentenwohnheime.
+
+<img alt="Aussicht in der Nacht" src="assets/images/campus/unist-only-male.webp" class="img-fluid w-100"/>
