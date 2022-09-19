@@ -13,9 +13,6 @@ featured: true
 
 Von dem Typhoon Hinnamnor habe ich selber erst zwei Tage vorher was von gehört, als wir abends auf dem Campus in einem KFC (Korean fried Chicken) Restaurant saßen und auf dem dort hängenden Fernseher eine halbe Stunde etwas über einen Sturm gezeigt wurde. Abgesehen davon, dass alles in Koreanisch war, konnten wir entnehmen, dass es recht ernst war, da sehr Lange über diesen Sturm gesprochen wurde und Jahreszahlen aus dem letzten Jahrhundert aufgelistet wurden. So haben wir selber im Internet nachgeschaut, was es damit auf sich hatte. Wir stellten fest, dass der Typhoon Hinnamnor einer der stärksten Typhoone seit Beginn der Aufzeichnung werden sollte. Der Typhoon sollte am Montag (05.09.) oder Dienstag (06.09.) über Ulsan ziehen und wir lagen auf der direkten Route des Typhoons.
 
-<img alt="typhoon satelite" src="assets/images/typhoon/typhoon-satelite.webp" class="img-fluid w-100"/>
-<img alt="typhoon ocean" src="assets/images/typhoon/typhoon-ocean.webp" class="img-fluid w-100"/>
-
 So beschlossen wir, dass wir einen Tag vorher noch sicherheitshalber einkaufen gehen, um ein paar Vorräte anzulegen. Daneben gab es über den gesamten Tag verteilt Lautsprecherdurchsagen auf dem Campus und mehrere Warnmeldungen auf dem Handy. Als dann der Montag gekommen war, fing es zunächst mit etwas Wind und Regen an. Dieser intensivierte sich über Nacht. Zu unserem Erstaunen blieb aber die Katastrophen ähnliche Flut, die erwartet wurde, bei uns aus. Am nächsten Tag konnte man nur einen gut befüllten Bach und ein paar Äste auf Gehwegen beobachten. Die zunächst als online geplanten Vorlesungen wurden dann doch in Präsenz abgehalten und alles ging seinen gewohnten Lauf.
 
 Leider hat es andere Regionen in Südkorea deutlich härter getroffen…
