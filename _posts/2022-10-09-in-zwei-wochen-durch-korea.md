@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In zwei Wochen durch Seoul"
+title: "In zwei Wochen durch Korea"
 date: 2022-10-09 00:00:00 +0900
 tags: SEOUL
 categories: [seoul, busan, ulsan]
