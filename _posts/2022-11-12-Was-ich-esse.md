@@ -37,9 +37,9 @@ In Korea gibt es überall Convinient Stores, welche Rahmen, Fertiggerichte, Getr
 Etwas befremdlich für uns Europäer ist jedoch, dass alles x-mal in Plastik verpackt ist (hier z. B. die zwei Bananen). Immerhin ist den Koreanern Mülltrennung und Recycling sehr wichtig.
 
 *Snacks*
-<img alt="Snack" src="assets/images/food/snack-1.webp" class="img-fluid w-100"/>
-<img alt="Snack" src="assets/images/food/snack-2.webp" class="img-fluid w-100"/>
-<img alt="Snack" src="assets/images/food/snack-3.webp" class="img-fluid w-100"/>
+<img alt="Snack" src="assets/images/food/snacks-1.webp" class="img-fluid w-100"/>
+<img alt="Snack" src="assets/images/food/snacks-2.webp" class="img-fluid w-100"/>
+<img alt="Snack" src="assets/images/food/snacks-3.webp" class="img-fluid w-100"/>
 
 # Auswärtsessen
 Natürlich findet man auch einige andere Restaurants, neben BBQ.
